@@ -30,6 +30,7 @@ public class LoginAction {
 
 	public String execute2() {
 		String abc= "";
+		String abc2= "";
 		return "success"; 
 		
 	}
