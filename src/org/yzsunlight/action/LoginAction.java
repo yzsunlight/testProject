@@ -28,4 +28,10 @@ public class LoginAction {
 		
 	}
 
+	public String execute2() {
+		String abc= "";
+		return "success"; 
+		
+	}
+
 }
