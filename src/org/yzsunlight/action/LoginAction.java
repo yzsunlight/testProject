@@ -22,7 +22,10 @@ public class LoginAction {
 	}
 
 	public String execute() {
-		return "success";
+		
+		String abc= "";
+		return "success"; 
+		
 	}
 
 }
